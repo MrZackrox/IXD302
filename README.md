@@ -1,21 +1,21 @@
 # IXD102
 This is a repo for a module that I am doing for University (Interaction Design). This module is about narrative and storytelling and how we can take the user on a journey a one page website. 
 
-- [ ] First Draft;
+- [ ] #First Draft;
 
 Mark up Finding an Extinct New Zealand Bird in Mark Down.
 
-- [ ] Second Draft;
+- [ ] #Second Draft;
 
 Mark up Finding an Extinct New Zealand Bird in basic HTML (h1,p, img)
 
-- [ ] Third Draft;
+- [ ] #Third Draft;
 
 Mark up Finding an Extinct New Zealand Bird in Further HTML.
 
 Look at time and hgroup element.
 
-- [x] Time Element-
+- [x] #Time Element-
 
   The time element does what it says on the tin. It presents the time. You can have it present the time in 24 hour are a more precise with the time and date.
   
