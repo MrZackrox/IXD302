@@ -112,31 +112,31 @@ New Zealand plays an active role in helping democratic nations and emerging Paci
 
         
             
-     Fast Facts
+    +Fast Facts
 
-            Population: 4,107,000
-            Capital: Wellington; 343,000
-            Area: 270,534 Square Kilometers (104,454 Square Miles)
-            Language: English, Maori
-            Religion: Protestant, Roman Catholic
-            Currency: New Zealand Dollar
-            Life Expectancy: 78
-            GDP per Capita: U.S. $20,100
-            Literacy Percent: 99
-
-
-
-           * See, in the National Geographic Magazine: "The Columbus of the Pacific: Captain James Cook," by J. R. Hildebrand, January, 1927; and "Tuatara: 'Living Fossils' Walk on Well-Nigh Inaccessible Rocky Islands off the Coast of New Zealand," by Frieda Cobb Blanchard, May, 1935.
+    +Population: 4,107,000
+    +Capital: Wellington; 343,000
+    +Area: 270,534 Square Kilometers (104,454 Square Miles)
+    +Language: English, Maori
+    +Religion: Protestant, Roman Catholic
+    +Currency: New Zealand Dollar
+    +Life Expectancy: 78
+    +GDP per Capita: U.S. $20,100
+    +Literacy Percent: 99
 
 
 
-            Copyright 1952. R. V. Francis Smith
-      
+>* See, in the National Geographic Magazine: "The Columbus of the Pacific: Captain James Cook," by J. R. Hildebrand, January, 1927; and "Tuatara: 'Living Fossils' Walk on Well-Nigh Inaccessible Rocky Islands off the Coast of New Zealand," by Frieda Cobb Blanchard, May, 1935.
 
-                    Published by the National Geographic Society, Washington, D.C.
 
-                    Article: Copyright, 1952, by National Geographic Society, Washington, D.C. International copyright secured. All rights reserved. Printed in U.S.A. Entered at the Post Office at Washington, D.C., as Second Class Mail Matter. Acceptance for mailing at special rate of postage provided for in Sec. 1103, Act of October 3, 1917, authorized July 1, 1918. Cover design and names registered in United States Patent Office.
 
-                    New Zealand Facts: Copyright, 1995-2015, by National Geographic Society, Washington, D.C.
+*Copyright 1952. R. V. Francis Smith*
+
+
+*Published by the National Geographic Society, Washington, D.C.*
+
+*Article: Copyright, 1952, by National Geographic Society, Washington, D.C. International copyright secured. All rights reserved. Printed in U.S.A. Entered at the Post Office at Washington, D.C., as Second Class Mail Matter. Acceptance for mailing at special rate of postage provided for in Sec. 1103, Act of October 3, 1917, authorized July 1, 1918. Cover design and names registered in United States Patent Office.*
+
+*New Zealand Facts: Copyright, 1995-2015, by National Geographic Society, Washington, D.C.*
           
 
