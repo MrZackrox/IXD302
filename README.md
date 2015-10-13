@@ -27,4 +27,6 @@ Look at time and hgroup element.
   
   <p>The match is taking place on <time datetime="2015-09-23 21:00">October 21</time>.</p>
   
-  This is what the machine sees <time datetime="2015-09-23 21:00"> and
+  This is what the machine sees time datetime="2015-09-23 21:00" and is able to locate this easier.
+  
+  The best way to think of it is when batmans light is used to tell him he is needed. He knows were he has to go and finds it right away.
