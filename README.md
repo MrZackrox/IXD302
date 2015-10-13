@@ -3,7 +3,9 @@ This is a repo for a module that I am doing for University (Interaction Design).
 
 - [ ] First Draft;
 
-Mark up Finding an Extinct New Zealand Bird in Mark Down.
+  Mark up Finding an Extinct New Zealand Bird in Mark Down.
+
+  I didn't does this in the first place but have now went back and down it. As mark down is easier and quicker for you to just get work down in some sort of structre.
 
 ------------------------------------------------------
 
