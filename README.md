@@ -4,11 +4,13 @@ This is a repo for a module that I am doing for University (Interaction Design).
 - [ ] First Draft;
 
 Mark up Finding an Extinct New Zealand Bird in Mark Down.
+
 ------------------------------------------------------
 
 - [ ] Second Draft;
 
 Mark up Finding an Extinct New Zealand Bird in basic HTML (h1,p, img)
+
 ------------------------------------------------------
 
 - [ ] Third Draft;
@@ -32,4 +34,5 @@ Look at time and hgroup element.
   This is what the machine sees time datetime="2015-09-23 21:00" and is able to locate this easier.
   
   The best way to think of it is when batmans light is used to tell him he is needed. He knows were he has to go and finds it right away.
+
 ------------------------------------------------------
