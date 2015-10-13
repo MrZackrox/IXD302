@@ -14,3 +14,7 @@ Mark up Finding an Extinct New Zealand Bird in basic HTML (h1,p, img)
 Mark up Finding an Extinct New Zealand Bird in Further HTML.
 
 Look at time and hgroup element.
+
+- [x] Time Element-
+
+  <p>The moive starts at <time>21:00</time>.</p>
