@@ -112,16 +112,16 @@ New Zealand plays an active role in helping democratic nations and emerging Paci
 
         
             
-+Fast Facts
-+Population: 4,107,000
-+Capital: Wellington; 343,000
-+Area: 270,534 Square Kilometers (104,454 Square Miles)
-+Language: English, Maori
-+Religion: Protestant, Roman Catholic
-+Currency: New Zealand Dollar
-+Life Expectancy: 78
-+GDP per Capita: U.S. $20,100
-+Literacy Percent: 99
++ Fast Facts
++ Population: 4,107,000
++ Capital: Wellington; 343,000
++ Area: 270,534 Square Kilometers (104,454 Square Miles)
++ Language: English, Maori
++ Religion: Protestant, Roman Catholic
++ Currency: New Zealand Dollar
++ Life Expectancy: 78
++ GDP per Capita: U.S. $20,100
++ Literacy Percent: 99
 
 
 
