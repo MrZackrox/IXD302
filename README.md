@@ -3,7 +3,7 @@ This is a repo for a module that I am doing for University (Interaction Design).
 
 - [x] First Draft;
 
-  Mark up for [Finding an Extinct New Zealand Bird in Mark Down](http://example.com/).
+  Mark up for [Finding an Extinct New Zealand Bird in Mark Down](MarkDown-finding-an-extinct-new-zealand-bird.md).
 
   I didn't does this in the first place but have now went back and down it. As mark down is easier and quicker for you to just get work down in some sort of structre.
 
