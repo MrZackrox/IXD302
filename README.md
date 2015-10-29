@@ -1,9 +1,9 @@
 # IXD102
 This is a repo for a module that I am doing for University (Interaction Design). This module is about narrative and storytelling and how we can take the user on a journey a one page website. 
 
-- [ ] First Draft;
+- [x] First Draft;
 
-  Mark up Finding an Extinct New Zealand Bird in Mark Down.
+  Mark up for [Finding an Extinct New Zealand Bird in Mark Down](http://example.com/).
 
   I didn't does this in the first place but have now went back and down it. As mark down is easier and quicker for you to just get work down in some sort of structre.
 
