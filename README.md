@@ -11,7 +11,7 @@ This is a repo for a module that I am doing for University (Interaction Design).
 
 - [x] Second Draft;
 
-Mark up [Finding an Extinct New Zealand Bird in Mark Down](https://github.com/MrZackrox/IXD302/finding-an-extinct-new-zealand-bird.html) in basic HTML (h1,p, img)
+Mark up [Finding an Extinct New Zealand Bird in Mark Down](mrzackrox.github.io/IXD302/finding-an-extinct-new-zealand-bird.html) in basic HTML (h1,p, img)
 
 ------------------------------------------------------
 
