@@ -15,9 +15,14 @@ Mark up [Finding an Extinct New Zealand Bird in Mark Down](http://mrzackrox.gith
 
 ------------------------------------------------------
 
-- [ ] Third Draft;
+- [x] Third Draft;
 
-Mark up Finding an Extinct New Zealand Bird in Further HTML.
+Mark up Finding an Extinct New Zealand Bird in Further HTML. Looking at the section, main, artical and aside elements
+
+Marked up [Finding an Extinct New Zealand Bird in Mark Down](http://mrzackrox.github.io/IXD302/finding-an-extinct-new-zealand-bird.html) 
+
+------------------------------------------------------
+
 
 Look at time and hgroup element.
 
